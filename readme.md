@@ -16,6 +16,8 @@ In the face of growing cyber threats, securing communication channels has become
 
 This study employs RSA and AES for robust data encryption and utilizes LSB (Least Significant Bit) for steganography, along with exploring enhanced LSB techniques to improve security further.
 
+![Untitled](https://github.com/gxutxm/Media-Steganography-Using-Cryptographic-Techniques/assets/81068888/877181a3-180f-4735-9d1f-e36580d993f4)
+
 
 ## **Conclusion**
 
